@@ -106,9 +106,16 @@ h2 {
     display: block;
   }
 
-  .mobile-row {
-    height: 66vh !important;
+.mobile-row {
+    height: 90vh !important;
   }
+  .or::after{
+    width: 150px !important;
+  }
+  .or::before{
+    width: 150px !important;
+  }
+ 
 }
 
 .half .contents,
